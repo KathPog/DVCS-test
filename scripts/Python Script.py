@@ -1,6 +1,6 @@
-counter = 0
+anothervar = 0
 
-while counter != 10:
-    counter += 1
-    print(counter)
+while anothervar != 10:
+    anothervar += 1
+    print(anothervar)
 
