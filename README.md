@@ -1,5 +1,5 @@
 # DVCS-test
-Checking how version control works on GitHub
+Checking how VC works on GitHub
 
 ### My Details
 - Kasia
